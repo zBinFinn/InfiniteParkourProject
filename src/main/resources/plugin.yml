@@ -1,0 +1,8 @@
+name: TestPlugin
+version: '${project.version}'
+main: net.finn.test.Main
+api-version: 1.19
+authors: [ Finn ]
+description: Funny Test Plugin
+commands:
+
