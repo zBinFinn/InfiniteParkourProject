@@ -6,7 +6,7 @@ public final class Main extends JavaPlugin{
 
     @Override
     public void onEnable() {
-        getCommand("book").setExecutor(new BookCommand());
+
     }
 
 }
