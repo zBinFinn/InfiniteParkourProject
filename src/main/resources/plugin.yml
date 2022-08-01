@@ -1,11 +1,11 @@
-name: TestPlugin
+name: InfiniteParkourPlugin
 version: '${project.version}'
 main: net.finn.test.Main
 api-version: 1.19
 authors: [ Finn ]
-description: Funny Test Plugin
+description: Funny Parkour Plugin
 commands:
-  punish:
+  start:
 
 
 
